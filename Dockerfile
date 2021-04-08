@@ -1,5 +1,5 @@
 # We're using Ubuntu 20.10
-FROM privatener29/dockerlonewolfie:w29f
+FROM privatener29/docklonewolf:lonwolf
 
 RUN git clone -b TG-LoneUbot https://github.com/W29F/TG-Lonwolf /root/userbot
 RUN mkdir /root/userbot/.bin
