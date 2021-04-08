@@ -92,7 +92,7 @@ async def koc(e):
         await e.edit("MY BABY")
         await e.edit("💕💞💘💝")
         await e.edit("💘💕💞💝")
-        await e.edit("SAYANG KAMU💞")
+        await e.edit("Liya, AKU SAYANG KAMU 💘💞")
 
 
 @register(outgoing=True, pattern="^.dino(?: |$)(.*)")
@@ -463,7 +463,7 @@ async def _(event):
             "`Mengirim Cintaku.. 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Mengirim Cintaku.. 84%\n█████████████████████▒▒▒▒ `",
             "`Mengirim Cintaku.. 100%\n█████████CINTAKU███████████ `",
-            f"`Cintaku Sekarang Sepenuhnya Terkirim Padamu, Dan Sekarang Aku Sangat Mencintai Mu, I Love You 💞`",
+            f"`Cintaku Sekarang Sepenuhnya Terkirim Padamu, Dan Sekarang Aku Sangat Mencintai Mu, Liya I Love You 💘`",
         ]
 
         for i in animation_ttl:
